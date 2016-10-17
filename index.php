@@ -13,6 +13,9 @@ and open the template in the editor.
         <?php
         // put your code here
         echo 'Hello php peeraphat';
+        echo '<hr>';
+        $srr=['delphi','php','java','javascrip'];
+        print_r($srr);
         ?>
     </body>
 </html>
